@@ -1,0 +1,25 @@
+/*********declare variables*********/
+root {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial sans-seerif;
+}
+/*****end of declaration of variables*****/
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100px;
+    background-color: seagreen;
+}
+.grid {
+    width: 420px;
+    background-color: red;
+    color: #fff;
+}
+.grid h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
