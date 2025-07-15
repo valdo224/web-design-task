@@ -1,0 +1,33 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+/**** COLOR VARIABLES *****/
+:root{
+    --primary-color:#c6c3c3;
+    --second-color:#ffffff;
+    --black-color:#000000;
+}
+ body{
+    background-image: url(",,/img/bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ }
+ .btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.2);
+ }
+ 
+
+
